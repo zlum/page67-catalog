@@ -4,57 +4,57 @@
  "languages": [
   {
    "code": "en",
-   "count": 61486,
+   "count": 61488,
    "file": "books-en.json",
-   "bytes": 6826067
+   "bytes": 6813953
   },
   {
    "code": "fr",
    "count": 4178,
    "file": "books-fr.json",
-   "bytes": 448307
+   "bytes": 447552
   },
   {
    "code": "fi",
    "count": 3680,
    "file": "books-fi.json",
-   "bytes": 351337
+   "bytes": 348453
   },
   {
    "code": "de",
    "count": 2391,
    "file": "books-de.json",
-   "bytes": 259714
+   "bytes": 258783
   },
   {
    "code": "nl",
    "count": 1113,
    "file": "books-nl.json",
-   "bytes": 121504
+   "bytes": 121324
   },
   {
    "code": "it",
    "count": 1109,
    "file": "books-it.json",
-   "bytes": 113449
+   "bytes": 113109
   },
   {
    "code": "es",
    "count": 901,
    "file": "books-es.json",
-   "bytes": 95792
+   "bytes": 95624
   },
   {
    "code": "pt",
    "count": 655,
    "file": "books-pt.json",
-   "bytes": 74537
+   "bytes": 74485
   },
   {
    "code": "hu",
    "count": 654,
    "file": "books-hu.json",
-   "bytes": 61364
+   "bytes": 61035
   },
   {
    "code": "zh",
@@ -66,7 +66,7 @@
    "code": "sv",
    "count": 257,
    "file": "books-sv.json",
-   "bytes": 25722
+   "bytes": 25658
   },
   {
    "code": "el",
@@ -78,25 +78,25 @@
    "code": "la",
    "count": 144,
    "file": "books-la.json",
-   "bytes": 16931
+   "bytes": 16919
   },
   {
    "code": "eo",
    "count": 138,
    "file": "books-eo.json",
-   "bytes": 11952
+   "bytes": 11920
   },
   {
    "code": "ca",
    "count": 95,
    "file": "books-ca.json",
-   "bytes": 9605
+   "bytes": 9425
   },
   {
    "code": "da",
    "count": 84,
    "file": "books-da.json",
-   "bytes": 7699
+   "bytes": 7691
   },
   {
    "code": "tl",
@@ -120,7 +120,7 @@
    "code": "fy",
    "count": 22,
    "file": "books-fy.json",
-   "bytes": 2126
+   "bytes": 2086
   },
   {
    "code": "ja",
@@ -132,7 +132,7 @@
    "code": "af",
    "count": 17,
    "file": "books-af.json",
-   "bytes": 1913
+   "bytes": 1909
   },
   {
    "code": "cy",
@@ -174,7 +174,7 @@
    "code": "ga",
    "count": 5,
    "file": "books-ga.json",
-   "bytes": 498
+   "bytes": 494
   },
   {
    "code": "ru",
@@ -186,7 +186,7 @@
    "code": "sl",
    "count": 5,
    "file": "books-sl.json",
-   "bytes": 539
+   "bytes": 535
   },
   {
    "code": "ang",
@@ -198,7 +198,7 @@
    "code": "gla",
    "count": 4,
    "file": "books-gla.json",
-   "bytes": 506
+   "bytes": 503
   },
   {
    "code": "he",
@@ -348,7 +348,7 @@
    "code": "hai",
    "count": 1,
    "file": "books-hai.json",
-   "bytes": 119
+   "bytes": 115
   },
   {
    "code": "iu",
